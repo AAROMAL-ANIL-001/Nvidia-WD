@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@500&display=swap');
+
+*{
+   margin: 0;
+   padding: 0; 
+}
+body{
+    background-color: black;
+}
+.head1{
+    margin: 0 auto;
+    width:100%;
+    background-color: white;
+    height:30px;
+}
+.container{
+    margin: 0 auto;
+    width:70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container nav ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 4px;
+    color: grey;
+}
+.container ul{
+    margin-top: -6px;
+}
+.icon{
+    width:15px;
+    height: 15px;
+}
+.container li{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.logo{
+    margin-top: -6px;
+}
+.geforce{
+    width: 109px;
+    height: 34px;
+    margin-top: -8px;
+    background-color: black;
+}
+.geforlist ul li{
+    margin-top: 30px;
+    color: grey;
+    display: inline;
+    margin-left: 30px;
+    font-size: 10px;
+    background-color: black;
+}
+.sect1{
+    margin: 36px auto;
+    background-image: url(Images/game-ready-spider-man-rtx-launch-nv-gf-wmfg-2560-d@2x.jpg);
+    width:100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.sect1 h1{
+    margin-left: 208px;
+    padding-top: 136px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.sect1 h3{
+    margin-left: 209px;
+    padding-top: 11px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.btn{
+    background-color: #76b900;
+    color: white;
+    padding: 5px;
+    margin-left: 206px;
+    margin-top: 7px;
+    font-weight: bold;
+}
+.sect2{
+    width:25%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+
+}
+.sect2 p{
+    word-spacing: 1px;
+    font-size: 10px;
+    
+    margin-left: 1px;
+    margin-top: 14px;
+    line-height: 18px;
+}
+
+.imageee{
+  max-width: 100%;
+  
+}
+.contain{
+    margin: 0 auto;
+    width:70%;
+    display: flex;
+    justify-content: space-between;
+}
+.lm{
+    background-color: #76b900;
+    color: white;
+    padding: 2px;
+    width: 84px;
+}
+.sect3{
+    background-color: black;
+    height:200px;
+    width:100%;
+}
+table{
+    
+    color: #76b900;
+    width: 100%;
+    margin-top: 50px;
+    
+    
+   
+}
+table th{
+    text-align: left;
+    border-bottom: 1px solid #999;
+}
+table td{
+    font-family: 'Lato', sans-serif; 
+    font-size:10px;
+    padding:3px;
+}
+
+.head{
+    color: white;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+}
+.sect4{
+    background-color: black;
+    height: 50px;
+    color: white;
+    margin-left: 44px;
+    margin-top: 13px;
+    
+}
+.cont{
+    margin: 0 auto;
+    width:80%;
+    display: flex;
+}
+.mail{
+    width: 32px;
+    height: 21px;
+
+}
+.cont p{
+    font-size: 10px;
+    font-family: 'Lato', sans-serif;
+    padding: 3px;
+    margin-left: 7px;
+}
+.subs{
+    background-color: #76b900;
+    padding: 2px;
+}
+.last{
+    margin-top: 30px;
+    width: 100%;
+    background-color: white;
+    color: #999;
+    height: 100px;
+}
+.foot{
+    width:80% ;
+    margin:0 15%;
+}
+.foot li{
+    list-style-type: none;
+    display:inline;
+    font-family: 'Lato', sans-serif;
+    font-size: 10px;
+}
+.lasticon{
+    width:70px;
+    height:30px;
+}
+.foot p{
+    font-size:6px ;
+    font-family: 'Lato', sans-serif;
+    margin-top: 3px;
+}
+hr{
+    width: 0.5px solid rgb(103, 101, 101);
+}
+.b_btm{
+    margin-top: 49px;
+    border-bottom: 1px solid #999;
+    padding-bottom: 51px;
+}
